@@ -6,4 +6,18 @@ img {
 #imgIndex01 {
     width: 800px;
     height: 500px;
+    display: block;
+    margin: auto;
+}
+
+#Titol {
+    text-align: center;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.blau {
+    color: blue;
 }
